@@ -1,6 +1,0 @@
-DATABASE:
-1. Init
-    - alembic init migrations
-2. Make migrations
-    - alembic revision --autogenerate -m "Databse creation"
-    - alembic upgrade ed42289f794c
